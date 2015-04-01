@@ -5,7 +5,6 @@ import javax.swing.*;
  *
  */
 
-// TESTING GIT CONFIGURATION
 // PIERRE HAS ENTERED THE BUILDING
 public class MainFrame extends JFrame {
 
